@@ -4,6 +4,8 @@
 
 ![Picture of the game](screenshot.png)
 
+> Link to the game: https://samoylovxo.github.io/step-by-step-game_defeat-the-evil-spirits/
+
 ## Hello everyone!
 
 - I think that this game may seem too simple for you, but this is a project for my portfolio and it seems to me that it will be able to catch not only fans of retro games.
